@@ -1,4 +1,4 @@
-# Seraphyne Co.Science Group
+# Seraphyne Computer Science Group
 
 Seraphyne is an independent open-source research and development community with interests in:  
 - **Large Language Models (LLMs)** - training, optimization, and deployment of advanced natural language processing systems.  
